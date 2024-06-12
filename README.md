@@ -7,13 +7,7 @@
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Examples](#examples)
-- [Configuration](#configuration)
-- [Testing](#testing)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgments](#acknowledgments)
-- [Contact](#contact)
+
 
 ## Introduction
 
@@ -55,3 +49,18 @@ You can install the dependencies via pip:
 pip install -r requirements.txt
 
 nds or patterns.
+
+## Usage
+1.Clone the repository:
+git clone https://github.com/your-username/PyTorch-Gradio-MNIST-Digit-Classification.git
+
+2.Navigate to the project directory:
+cd PyTorch-Gradio-MNIST-Digit-Classification
+
+3.Train the model and visualize accuracy:
+python train_and_visualize.py
+
+4.To predict digits interactively, run:
+python predict_digit.py
+
+
