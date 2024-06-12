@@ -31,6 +31,12 @@ This project utilizes PyTorch, a popular deep learning framework, to train a sim
 ![Screenshot 2024-06-12 181116](https://github.com/Abhirajraushan/PyTorch-Gradio-MNIST-Digit-Classification/assets/84666932/358412b1-fa72-4e05-bcfe-a48fe4a6a474)
 This plot shows the accuracy of the model on the training data over epochs. It helps visualize the training progress and identify any trends or patterns.
 
+### Predicted Digit Example
+![Screenshot 2024-06-12 180934](https://github.com/Abhirajraushan/PyTorch-Gradio-MNIST-Digit-Classification/assets/84666932/0d91049c-e483-49d2-9e11-d64e6b784762)
+![Screenshot 2024-06-12 181032](https://github.com/Abhirajraushan/PyTorch-Gradio-MNIST-Digit-Classification/assets/84666932/24e8436a-92df-4779-bea0-dce6183e3bce)
+This image illustrates an example of a handwritten digit from the MNIST dataset along with the model's prediction. It demonstrates how the model performs in real-world scenarios.
+
+
 ## Installation
 
 Ensure you have the following dependencies installed:
