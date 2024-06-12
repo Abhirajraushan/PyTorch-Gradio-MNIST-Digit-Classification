@@ -33,7 +33,7 @@ This image illustrates an example of a handwritten digit from the MNIST dataset 
 
 ## Usage
 1.Clone the repository:
-git clone https://github.com/your-username/PyTorch-Gradio-MNIST-Digit-Classification.git
+git clone https://github.com/Abhirajraushan/PyTorch-Gradio-MNIST-Digit-Classification.git
 
 2.Navigate to the project directory:
 cd PyTorch-Gradio-MNIST-Digit-Classification
