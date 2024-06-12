@@ -42,3 +42,7 @@ You can install the dependencies via pip:
 
 ```bash
 pip install -r requirements.txt
+
+### Training Accuracy Plot
+![Training Accuracy Plot](images/training_accuracy.png)
+This plot shows the accuracy of the model on the training data over epochs. It helps visualize the training progress and identify any trends or patterns.
