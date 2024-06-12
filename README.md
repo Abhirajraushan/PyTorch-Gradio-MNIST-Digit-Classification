@@ -27,6 +27,10 @@ This project utilizes PyTorch, a popular deep learning framework, to train a sim
 - **Interactive Visualization**: Visualize the training process with plots showing accuracy over epochs.
 - **Real-time Prediction**: Draw a digit on the sketchpad and get real-time predictions from the trained model.
 
+- ### Training Accuracy Plot
+![Screenshot 2024-06-12 181116](https://github.com/Abhirajraushan/PyTorch-Gradio-MNIST-Digit-Classification/assets/84666932/358412b1-fa72-4e05-bcfe-a48fe4a6a474)
+This plot shows the accuracy of the model on the training data over epochs. It helps visualize the training progress and identify any trends or patterns.
+
 ## Installation
 
 Ensure you have the following dependencies installed:
