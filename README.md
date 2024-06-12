@@ -5,8 +5,9 @@
 
 - [Introduction](#introduction)
 - [Features](#features)
-- [Installation](#installation)
 - [Usage](#usage)
+- [Installation](#installation)
+
 
 
 ## Introduction
@@ -30,6 +31,20 @@ This plot shows the accuracy of the model on the training data over epochs. It h
 ![Screenshot 2024-06-12 181032](https://github.com/Abhirajraushan/PyTorch-Gradio-MNIST-Digit-Classification/assets/84666932/24e8436a-92df-4779-bea0-dce6183e3bce)
 This image illustrates an example of a handwritten digit from the MNIST dataset along with the model's prediction. It demonstrates how the model performs in real-world scenarios.
 
+## Usage
+1.Clone the repository:
+git clone https://github.com/your-username/PyTorch-Gradio-MNIST-Digit-Classification.git
+
+2.Navigate to the project directory:
+cd PyTorch-Gradio-MNIST-Digit-Classification
+
+3.Train the model and visualize accuracy:
+python train_and_visualize.py
+
+4.To predict digits interactively, run:
+python predict_digit.py
+
+
 
 ## Installation
 
@@ -44,23 +59,10 @@ Ensure you have the following dependencies installed:
   
 
 You can install the dependencies via pip:
-
 ```bash
 pip install -r requirements.txt
-
 nds or patterns.
 
-## Usage
-1.Clone the repository:
-git clone https://github.com/your-username/PyTorch-Gradio-MNIST-Digit-Classification.git
 
-2.Navigate to the project directory:
-cd PyTorch-Gradio-MNIST-Digit-Classification
-
-3.Train the model and visualize accuracy:
-python train_and_visualize.py
-
-4.To predict digits interactively, run:
-python predict_digit.py
 
 
